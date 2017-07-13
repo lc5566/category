@@ -1,0 +1,30 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.media-body{
+	position:relative;
+	height:30px;
+}
+.media-body .add{
+	font-size:20px;
+	font-weight: bold;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:30px;
+	margin:auto;
+}
+.media-heading .form-control {
+  width: 200px;
+}
+.delete{
+	font-size:20px;
+	position:absolute;
+	top:0;
+	bottom:0;
+	right:5px;
+	margin:auto;
+	color:red;
+}
